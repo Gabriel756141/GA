@@ -1,0 +1,2 @@
+# GA
+diseño de software
